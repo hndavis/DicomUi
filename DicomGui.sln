@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicomGuiTest", "DicomGui\DicomGuiTest.csproj", "{F012CCBF-58DA-4C48-A6AB-392AA6C44AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicomGuiDisp", "DicomGuiDisp\DicomGuiDisp.csproj", "{FE9ABFCB-A8C2-4C78-B2FA-6AA5F7C88D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F012CCBF-58DA-4C48-A6AB-392AA6C44AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F012CCBF-58DA-4C48-A6AB-392AA6C44AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F012CCBF-58DA-4C48-A6AB-392AA6C44AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F012CCBF-58DA-4C48-A6AB-392AA6C44AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9ABFCB-A8C2-4C78-B2FA-6AA5F7C88D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9ABFCB-A8C2-4C78-B2FA-6AA5F7C88D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9ABFCB-A8C2-4C78-B2FA-6AA5F7C88D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9ABFCB-A8C2-4C78-B2FA-6AA5F7C88D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
